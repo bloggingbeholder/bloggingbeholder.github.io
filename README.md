@@ -1,2 +1,2 @@
-# bloggingbeholder.github.io
-The Blogging Beholder 
+# The Blogging Beholder
+A DND blog I'm helping set up for my friend.
